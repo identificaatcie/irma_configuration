@@ -1,0 +1,22 @@
+* root credential: SurfNet
+* Thalia root
+  * Jaarlidmaatschap
+    * per jaar vernieuwen
+  * Ledeninfo
+    * permanent
+  
+* Leeftijd
+
+Attributen:
+
+root: 1337
+membership: 1338
+age: 1339
+
+Verifies:
+rootall: 1438
+age: 18+ 1437
+membership valid: 1439
+thalia member 1440
+thalia honorary member 1441
+thalia begunstiger 1442

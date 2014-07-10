@@ -4,12 +4,12 @@
 CREDENTIAL_KEYS=
 
 # Set this to the names of the issuers for which you want to generate new keys
-ISSUERS="Bar"
+ISSUERS="Thalia"
 
 # Set this if you want to archive and encrypt the keys
 SECURE=true
 # Set this if you want to encrypt for a GPG key
-#GPG_KEYID=
+GPG_KEYID=4871E82F
 
 CLEANUP=true
 
