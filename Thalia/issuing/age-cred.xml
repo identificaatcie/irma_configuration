@@ -1,10 +1,10 @@
 <CredentialIssueSpecification>
-    <Name>Thalia lid</Name>
+    <Name>Thalia leeftijd</Name>
     <IssuerID>Thalia</IssuerID>
 
-    <Id>1350</Id>
+    <Id>1339</Id>
 
-    <Expires>200</Expires>
+    <Expires>-1</Expires>
 
     <Attributes>
         <Attribute type="string">
@@ -12,12 +12,8 @@
             <Value>yes</Value>
         </Attribute>
         <Attribute type="string">
-            <Name>isMember</Name>
+            <Name>over21</Name>
             <Value>yes</Value>
-        </Attribute>
-        <Attribute type="string">
-            <Name>userID</Name>
-            <Value>twiggers</Value>
         </Attribute>
     </Attributes>
 </CredentialIssueSpecification>
