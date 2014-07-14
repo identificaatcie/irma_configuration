@@ -10,11 +10,10 @@
 	<Id>1438</Id>
 
 	<Description>
-	  Read entire Thalia root credential for administrative purposes.
+		Read entire Thalia root credential for administrative purposes.
 	</Description>
 
 	<AttributeModes>
-	  <AttributeMode id="userID" mode="revealed" />
-	  <AttributeMode id="securityHash" mode="revealed" />
+		<AttributeMode id="userID" mode="revealed" />
 	</AttributeModes>
 </VerifySpecification>

@@ -4,7 +4,7 @@
 	<IssuerID>Thalia</IssuerID>
 	<CredentialID>age</CredentialID>
 	<Description>
-	  Your age attributes issued by Thalia by checking id card
+		Your age attributes issued by Thalia by checking id card
 	</Description>
 
 	<Id>1339</Id>
@@ -14,9 +14,5 @@
 			<Name>over18</Name>
 			<Description>True if you are over 18</Description>
 		</Attribute>
-	    <Attribute>
-			<Name>over21</Name>
-			<Description>True if you are over 21</Description>
-		</Attribute>
-</Attributes>
+	</Attributes>
 </IssueSpecification>

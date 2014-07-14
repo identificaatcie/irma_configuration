@@ -1,23 +1,23 @@
 <CredentialIssueSpecification>
-    <Name>Thalia lidinfo</Name>
-    <IssuerID>Thalia</IssuerID>
+	<Name>Thalia lidinfo</Name>
+	<IssuerID>Thalia</IssuerID>
 
-    <Id>1338</Id>
+	<Id>1338</Id>
 
-    <Expires>20</Expires>
+	<Expires>20</Expires>
 
-    <Attributes>
-        <Attribute type="string">
-            <Name>isMember</Name>
-            <Value>yes</Value>
-        </Attribute>
-        <Attribute type="string">
-            <Name>isBegunstiger</Name>
-            <Value>no</Value>
-        </Attribute>
-        <Attribute type="string">
-            <Name>isHonoraryMember</Name>
-            <Value>no</Value>
-        </Attribute>
-    </Attributes>
+	<Attributes>
+		<Attribute type="string">
+			<Name>isMember</Name>
+			<Value>yes</Value>
+		</Attribute>
+		<Attribute type="string">
+			<Name>isBegunstiger</Name>
+			<Value>no</Value>
+		</Attribute>
+		<Attribute type="string">
+			<Name>isHonoraryMember</Name>
+			<Value>no</Value>
+		</Attribute>
+	</Attributes>
 </CredentialIssueSpecification>

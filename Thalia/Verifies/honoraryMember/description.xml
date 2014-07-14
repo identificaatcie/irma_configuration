@@ -9,13 +9,13 @@
 
 	<Id>1441</Id>
 
-    <Description>
-        Shows if someone is a honorary member of Thalia
-    </Description>
+	<Description>
+		Shows if someone is a honorary member of Thalia
+	</Description>
 
 	<AttributeModes>
-        <AttributeMode id="isMember" mode="unrevealed" />
-        <AttributeMode id="isHonoraryMember" mode="revealed" />
-        <AttributeMode id="isBegunstiger" mode="unrevealed" />
+		<AttributeMode id="isMember" mode="unrevealed" />
+		<AttributeMode id="isHonoraryMember" mode="revealed" />
+		<AttributeMode id="isBegunstiger" mode="unrevealed" />
 	</AttributeModes>
 </VerifySpecification>

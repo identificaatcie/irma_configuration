@@ -1,19 +1,15 @@
 <CredentialIssueSpecification>
-    <Name>Thalia leeftijd</Name>
-    <IssuerID>Thalia</IssuerID>
-
-    <Id>1339</Id>
-
-    <Expires>-1</Expires>
-
-    <Attributes>
-        <Attribute type="string">
-            <Name>over18</Name>
-            <Value>yes</Value>
-        </Attribute>
-        <Attribute type="string">
-            <Name>over21</Name>
-            <Value>yes</Value>
-        </Attribute>
-    </Attributes>
+		<Name>Thalia leeftijd</Name>
+		<IssuerID>Thalia</IssuerID>
+		
+		<Id>1339</Id>
+		
+		<Expires>-1</Expires>
+		
+		<Attributes>
+			<Attribute type="string">
+				<Name>over18</Name>
+				<Value>yes</Value>
+			</Attribute>
+		</Attributes>
 </CredentialIssueSpecification>

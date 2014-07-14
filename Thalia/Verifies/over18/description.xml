@@ -10,11 +10,10 @@
 	<Id>1437</Id>
 
 	<Description>
-	  Gets the over18 attribute from the ageLower credential.
+		Gets the over18 attribute from the ageLower credential.
 	</Description>
 
 	<AttributeModes>
-	  <AttributeMode id="over18" mode="revealed" />
-	  <AttributeMode id="over21" mode="unrevealed" />
+		<AttributeMode id="over18" mode="revealed" />
 	</AttributeModes>
 </VerifySpecification>

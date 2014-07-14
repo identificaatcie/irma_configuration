@@ -10,12 +10,12 @@
 	<Id>1439</Id>
 
 	<Description>
-      Does someone have a valid Thalia membership credential
+	  Does someone have a valid Thalia membership credential
 	</Description>
 
 	<AttributeModes>
-        <AttributeMode id="isMember" mode="unrevealed" />
-        <AttributeMode id="isHonoraryMember" mode="unrevealed" />
-        <AttributeMode id="isBegunstiger" mode="unrevealed" />
+		<AttributeMode id="isMember" mode="unrevealed" />
+		<AttributeMode id="isHonoraryMember" mode="unrevealed" />
+		<AttributeMode id="isBegunstiger" mode="unrevealed" />
 	</AttributeModes>
 </VerifySpecification>

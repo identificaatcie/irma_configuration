@@ -3,9 +3,9 @@
 	<IssuerID>Thalia</IssuerID>
 	<ShortName>Thalia Root</ShortName>
 	<CredentialID>root</CredentialID>
-    <Description>
-        Root credential issued by Student association Thalia. The UserID is the
-        same as the userid on http://thalia.nu.
+	<Description>
+		Root credential issued by Student association Thalia. The UserID is the
+		same as the userid on http://thalia.nu.
 	</Description>
 
 	<Id>1337</Id>
@@ -13,11 +13,7 @@
 	<Attributes>
 		<Attribute>
 			<Name>userID</Name>
-            <Description>Username on http://thalia.nu</Description>
-		</Attribute>
-		<Attribute>
-			<Name>securityHash</Name>
-			<Description>Derivative used to verify your identity</Description>
+			<Description>Username on http://thalia.nu</Description>
 		</Attribute>
 	</Attributes>
 </IssueSpecification>

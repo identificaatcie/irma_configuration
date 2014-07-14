@@ -1,19 +1,15 @@
 <CredentialIssueSpecification>
-    <Name>Thalia lidinfo</Name>
-    <IssuerID>Thalia</IssuerID>
+	<Name>Thalia lidinfo</Name>
+	<IssuerID>Thalia</IssuerID>
 
-    <Id>1337</Id>
+	<Id>1337</Id>
 
-    <Expires>200</Expires>
+	<Expires>200</Expires>
 
-    <Attributes>
-	    <Attribute type="string">
-		    <Name>userID</Name>
-		    <Value>twiggers</Value>
-	    </Attribute>
-	    <Attribute type="string">
-		    <Name>securityHash</Name>
-		    <Value>95d018f788545f7bf08a847c4afa1a07505256d8</Value> <!-- echo -n "twiggersCARDID"  | sha1sum -->
-	    </Attribute>
-    </Attributes>
+	<Attributes>
+		<Attribute type="string">
+			<Name>userID</Name>
+			<Value>twiggers</Value>
+		</Attribute>
+	</Attributes>
 </CredentialIssueSpecification>

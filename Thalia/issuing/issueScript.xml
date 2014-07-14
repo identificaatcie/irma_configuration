@@ -15,11 +15,11 @@
 			<IssuerPublicKey>ipk.xml</IssuerPublicKey>
 			<IssuerPrivateKey>isk.xml</IssuerPrivateKey>
 		</Credential>
-        
-        <Credential>
+		
+		<Credential>
 			<IssueSpecification>root-cred.xml</IssueSpecification>
 			<IssuerPublicKey>ipk.xml</IssuerPublicKey>
-            <IssuerPrivateKey>isk.xml</IssuerPrivateKey>
-        </Credential>
+			<IssuerPrivateKey>isk.xml</IssuerPrivateKey>
+		</Credential>
 	</Credentials>
 </SilviaIssuingScript>
